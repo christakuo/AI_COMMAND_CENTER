@@ -6,12 +6,11 @@
 
 ## 目前規劃 Skills
 
-1. 企業 巡迴健檢 提案 Skill
-2. 企業 ESG 健康管理提案 Skill
-3. 健檢報告分析 Skill
-4. LINE 行銷推播 Skill
-5. 健康管理會員分級 Skill
-6. 長照資源整合提案 Skill
+1. 企業 ESG 健康管理提案 Skill
+2. 健檢報告分析 Skill
+3. LINE 行銷推播 Skill
+4. 健康管理會員分級 Skill
+5. 長照資源整合提案 Skill
 
 ## 使用方式
 
@@ -19,7 +18,6 @@
 
 例如：
 
-- 企業巡檢提案 → 讀取 skills/企業巡迴健檢提案.md
-- 企業ESG提案 → 讀取 skills/企業ESG健康管理提案.md
+- 企業提案 → 讀取 skills/企業ESG健康管理提案.md
 - 健檢報告分析 → 讀取 skills/健檢報告分析.md
 - LINE 推播 → 讀取 skills/LINE行銷推播.md
