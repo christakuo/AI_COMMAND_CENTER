@@ -21,19 +21,16 @@
 2. 健檢報告分析與健康風險預測 Skill
 3. LINE 行銷推播 Skill
 4. 健康管理會員分級 Skill
+5. 長照資源整合提案 Skill
 
 ---
 
 ## 目前規劃 Skills
 
-1. 企業 ESG 健康管理提案 Skill
-2. 健檢報告分析與健康風險預測 Skill
-3. LINE 行銷推播 Skill
-4. 健康管理會員分級 Skill
-5. 長照資源整合提案 Skill
-6. 企業健檢團體統計分析 Skill
-7. 高階會員健康管理計畫 Skill
-8. 馬偕企業巡迴健檢提案 Skill
+1. 保險顧問健康轉介 Skill
+2. 企業員工健檢統計分析 Skill
+3. 高階會員健康管理計畫 Skill
+4. 馬偕企業巡迴健檢提案 Skill
 
 ---
 
@@ -151,7 +148,11 @@ skills/長照資源整合提案.md
 * 健檢報告分析與健康風險預測 Skill
 * LINE 行銷推播 Skill
 * 健康管理會員分級 Skill
+* 長照資源整合提案 Skill
 
 下一步建議建立：
 
-* 長照資源整合提案 Skill
+* 保險顧問健康轉介 Skill
+* 企業員工健檢統計分析 Skill
+* 高階會員健康管理計畫 Skill
+* 馬偕企業巡迴健檢提案 Skill
