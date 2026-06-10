@@ -19,6 +19,7 @@
 
 1. 企業 ESG 健康管理提案 Skill
 2. 健檢報告分析與健康風險預測 Skill
+3. LINE 行銷推播 Skill
 
 ---
 
@@ -147,9 +148,9 @@ skills/長照資源整合提案.md
 
 * 企業 ESG 健康管理提案 Skill
 * 健檢報告分析與健康風險預測 Skill
+* LINE 行銷推播 Skill
 
 下一步建議建立：
 
-* LINE 行銷推播 Skill
 * 健康管理會員分級 Skill
 * 長照資源整合提案 Skill
